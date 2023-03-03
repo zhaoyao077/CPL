@@ -1,0 +1,6 @@
+add_executable(leap leap.c)
+add_executable(prime-func prime-func.c)
+add_executable(binary-search-func binary-search-func.c)
+add_executable(merge-func merge-func.c)
+add_executable(selection-sort-func selection-sort-func.c)
+add_executable(palindrome-func palindrome-func.c)

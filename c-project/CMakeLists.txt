@@ -1,0 +1,20 @@
+cmake_minimum_required(VERSION 3.22)
+project(c_project C)
+
+set(CMAKE_C_STANDARD 11)
+
+include_directories(.)
+
+add_subdirectory(0-intro)
+add_subdirectory(1-types-io)
+add_subdirectory(2-if-for-array)
+add_subdirectory(3-for-a-while)
+add_subdirectory(4-loops)
+add_subdirectory(5-function)
+add_subdirectory(6-recursion)
+add_subdirectory(7-data-types)
+add_subdirectory(8-pointer)
+add_subdirectory(9-pointer-more)
+add_subdirectory(10-struct)
+add_subdirectory(11-linkedlist)
+add_subdirectory(12-networking/uppercase)

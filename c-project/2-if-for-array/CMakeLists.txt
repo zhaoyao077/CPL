@@ -1,0 +1,1 @@
+add_executable(min-of-two min-of-two.c)

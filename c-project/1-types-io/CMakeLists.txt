@@ -1,0 +1,5 @@
+add_executable(circle circle.c)
+add_executable(sphere sphere.c)
+add_executable(mol mol.c)
+add_executable(scanf-examples scanf-examples.c)
+add_executable(admin-scanf admin-scanf.c ../2-if-for-array/min-of-two.c)
